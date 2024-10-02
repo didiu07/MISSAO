@@ -4,7 +4,7 @@ const caixaAlternativas = document.querySelector(".caixa-alternativas");
 const caixaResultado = document.querySelector(".caixa-resultado");
 const textoResultado = document.querySelector(".texto-resultado");
 
-const perguntas = [
+const perguntas = [ receba
     {
         enunciado: " bora bill ou luva de pedreiro?
       alternativas: [receba amostradinho
