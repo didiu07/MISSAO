@@ -7,7 +7,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 const perguntas = [
     {
         enunciado: " bora bill ou luva de pedreiro?
-      alternativas: [
+      alternativas: [receba amostradinho
             {
                 texto: "Isso é assustador!",
                 afirmacao: ["No início ficou com medo do que essa tecnologia pode fazer. ",
